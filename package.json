@@ -1,5 +1,8 @@
 {
-  "name": "cra-ci-demo",
+  "name": "@mozart89-test/ci-demo",
+  "repository": {
+    "url": "git://github.com/mozart89-test/ci-demo.git"
+  },
   "version": "0.1.3",
   "dependencies": {
     "react": "^16.10.1",
